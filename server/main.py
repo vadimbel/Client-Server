@@ -1,7 +1,7 @@
 from server import server
 
 """
-    vadim beletsker, 321392482
+   
 """
 
 
